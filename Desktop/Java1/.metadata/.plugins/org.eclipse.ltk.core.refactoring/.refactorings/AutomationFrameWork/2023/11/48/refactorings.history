@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.Automation.DataProvider.ExcelGetData&apos; to &apos;GetDataCode&apos;&#x0D;&#x0A;- Original project: &apos;AutomationFrameWork&apos;&#x0D;&#x0A;- Original element: &apos;com.Automation.DataProvider.ExcelGetData&apos;&#x0D;&#x0A;- Renamed element: &apos;com.Automation.DataProvider.GetDataCode&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ExcelGetData&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Automation.DataProvider{ExcelGetData.java[ExcelGetData" matchStrategy="1" name="GetDataCode" qualified="false" references="true" similarDeclarations="false" stamp="1701240783576" textual="false" version="1.0"/>
+</session>
